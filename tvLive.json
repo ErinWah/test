@@ -1,0 +1,255 @@
+{
+  "info": [
+    {
+      "t_type": "1",
+      "tv": [
+        {
+          "id": 1,
+          "t_name": "CCTV1综合",
+          "t_link": [
+            "https://cctvksh5ca.v.kcdnvip.com/clive/cctv1_2/index.m3u8?BR=hd&region=shanghai"
+          ]
+        },
+        {
+          "id": 2,
+          "t_name": "CCTV2财经",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8"
+          ]
+        },
+        {
+          "id": 4,
+          "t_name": "CCTV3综艺",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8"
+          ]
+        },
+        {
+          "id": 5,
+          "t_name": "CCTV4中文国际",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8"
+          ]
+        },
+        {
+          "id": 6,
+          "t_name": "CCTV5体育",
+          "t_link": [
+            "https://cctv5txyh5ca.liveplay.myqcloud.com/live/cctv5_2_hd.m3u8"
+          ]
+        },
+        {
+          "id": 7,
+          "t_name": "CCTV6电影",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8"
+          ]
+        },
+        {
+          "id": 8,
+          "t_name": "CCTV7国防军事",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8"
+          ]
+        },
+        {
+          "id": 9,
+          "t_name": "CCTV8电视剧",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8"
+          ]
+        },
+        {
+          "id": 10,
+          "t_name": "CCTV9纪录",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8"
+          ]
+        },
+        {
+          "id": 11,
+          "t_name": "CCTV10科教",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8"
+          ]
+        },
+        {
+          "id": 12,
+          "t_name": "CCTV11戏曲",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8"
+          ]
+        },
+        {
+          "id": 13,
+          "t_name": "CCTV12社会与法",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8"
+          ]
+        },
+        {
+          "id": 14,
+          "t_name": "CCTV13新闻",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8"
+          ]
+        },
+        {
+          "id": 15,
+          "t_name": "CCTV14少儿",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8"
+          ]
+        },
+        {
+          "id": 16,
+          "t_name": "CCTV15音乐",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8"
+          ]
+        },
+        {
+          "id": 17,
+          "t_name": "CCTV17农业",
+          "t_link": [
+            "http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "t_type": "2",
+      "tv": [
+        {
+          "id": 1,
+          "t_name": "广东珠江",
+          "t_link": [
+            "http://nclive.grtn.cn/zjpd/sd/live.m3u8?_upt="
+          ]
+        },
+        {
+          "id": 2,
+          "t_name": "广东影视",
+          "t_link": [
+            "http://nclive.grtn.cn/tvs4/sd/live.m3u8?_upt=f99360e41609155600&auth_key=1609150249-0-0-c67891b6cb97658f6df92dcd509ac40c"
+          ]
+        },
+        {
+          "id": 4,
+          "t_name": "广东体育",
+          "t_link": [
+            "http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8"
+          ]
+        },
+        {
+          "id": 5,
+          "t_name": "南方TVS4",
+          "t_link": [
+            "https://tcdn.itouchtv.cn/tvs2/sd/live.m3u8?t_token=38414975b515a42d320ff087b4374d97-ipTyMCcE%2Fri1HIkGzbdXDp8Tho4fONmLE04cByWvKrRZYpPB8eXyJb6XKo2Gd0i3jv6BsMsk804e8n84SNw%2FVvqbpIeQ0Ff2tO1J8GljEw0ftNY0QH0dPrnrwq9ILNl9ZdHJS1dJey83r19JJPd2AlikcAtSB1p3DicKkzo70gCDNerKVKgvRKcOGtpeaFZxUxjKtyDCUCrlSwYjH0jEfb8pb%2BpyiqDCTD0tTtmMZ%2Bc%3D"
+          ]
+        },
+        {
+          "id": 6,
+          "t_name": "J2标清",
+          "t_link": [
+            "https://gfdhyh.cn/hkj2a/j2.m3u8"
+          ]
+        },
+        {
+          "id": 7,
+          "t_name": "无线新闻台",
+          "t_link": [
+            "https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1613732517~exp=1613818917~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=a07f82cbf27fe1b58ec1cb382cd5d2cfad575bbe623af33ea1cf61f99632ff2b&p=3324"
+          ]
+        }
+      ]
+    },
+    {
+      "t_type": "3",
+      "tv": [
+        {
+          "id": 18,
+          "t_name": "湖南卫视",
+          "t_link": [
+            "http://111.56.125.227:80/PLTV/1/224/3221225518/index.m3u8?icpid=1&from=1&hms_devid=1223,543&vqe=3"
+          ]
+        },
+        {
+          "id": 19,
+          "t_name": "浙江卫视",
+          "t_link": [
+            "http://39.134.168.91/PLTV/1/224/3221225520/index.m3u8"
+          ]
+        },
+        {
+          "id": 20,
+          "t_name": "江苏卫视",
+          "t_link": [
+            "http://39.134.168.91/PLTV/1/224/3221225512/index.m3u8"
+          ]
+        },
+        {
+          "id": 6,
+          "t_name": "广东卫视",
+          "t_link": [
+            "http://39.134.168.91/PLTV/1/224/3221225528/index.m3u8"
+          ]
+        },
+        {
+          "id": 21,
+          "t_name": "东方卫视",
+          "t_link": [
+            "http://223.82.250.72/live/hddongfangstv/1.m3u8"
+          ]
+        },
+        {
+          "id": 22,
+          "t_name": "凤凰卫视",
+          "t_link": [
+            " http://live.centerch.com/fhxg.m3u8"
+          ]
+        },
+        {
+          "id": 23,
+          "t_name": "香港卫视",
+          "t_link": [
+            "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+          ]
+        },
+        {
+          "id": 24,
+          "t_name": "嘉佳卡通卫视",
+          "t_link": [
+            "http://stream1.grtn.cn/jjkt/sd/live.m3u8?_upt=978fe5dd1570725004"
+          ]
+        },
+        {
+          "id": 25,
+          "t_name": "星空卫视",
+          "t_link": [
+            "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"
+          ]
+        }
+      ]
+    },
+    {
+      "t_type": "4",
+      "tv": [
+        {
+          "id": 41,
+          "t_name": "tvb 翡翠台",
+          "t_link": [
+            "https://cdn2.epub.fun/live/tvbhk_jade/cxPwvSro.m3u8"
+          ]
+        },
+        {
+          "id": 42,
+          "t_name": "其他2",
+          "t_link": [
+            "http://39.134.168.91/PLTV/1/224/3221225520/index.m3u8"
+          ]
+        }
+      ]
+    }
+  ]
+}
