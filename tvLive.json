@@ -154,27 +154,6 @@
           "t_link": [
             "http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nanfangstv/SD-4000k-576P-nanfangstv"
           ]
-        },
-        {
-          "id": 6,
-          "t_name": "黑莓电竞之夜",
-          "t_link": [
-            "http://183.207.248.71:80/cntv/live1/wmyx/wmyx"
-          ]
-        },
-        {
-          "id": 7,
-          "t_name": "黑莓电影",
-          "t_link": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie"
-          ]
-        },
-         {
-          "id": 8,
-          "t_name": "黑莓动画",
-          "t_link": [
-            "http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg"
-          ]
         }
       ]
     },
@@ -218,7 +197,7 @@
         },
         {
           "id": 22,
-          "t_name": "凤凰卫视资讯台",
+          "t_name": "凤凰卫视",
           "t_link": [
             "http://117.169.120.138:8080/live/fhzixun/.m3u8"
           ]
@@ -257,6 +236,13 @@
           "t_link": [
             "http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton"
           ]
+        },
+         {
+          "id": 29,
+          "t_name": "炫动卡通",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/n-xuandongkaton/n-xuandongkaton"
+          ]
         }
       ]
     },
@@ -265,16 +251,86 @@
       "tv": [
         {
           "id": 41,
-          "t_name": "香港衛視",
+          "t_name": "中华美食",
           "t_link": [
-            "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+            "http://183.207.248.71:80/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi"
           ]
         },
         {
           "id": 42,
-          "t_name": "其他2",
+          "t_name": "纯享4K",
           "t_link": [
-            "http://39.134.168.91/PLTV/1/224/3221225520/index.m3u8"
+            "http://183.207.248.71:80/cntv/live1/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k"
+          ]
+        },
+        {
+          "id": 6,
+          "t_name": "黑莓电竞之夜",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/wmyx/wmyx"
+          ]
+        },
+        {
+          "id": 7,
+          "t_name": "黑莓电影",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie"
+          ]
+        },
+         {
+          "id": 8,
+          "t_name": "黑莓动画",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg"
+          ]
+        },
+        {
+          "id": 9,
+          "t_name": "NewTV世界搏击",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen"
+          ]
+        },
+        {
+          "id": 10,
+          "t_name": "NewTV动作电影",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody"
+          ]
+        },
+        {
+          "id": 11,
+          "t_name": "NewTV家庭剧场",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc"
+          ]
+        },
+        {
+          "id": 12,
+          "t_name": "NewTV惊悚电影",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/n-jingsongxy/n-jingsongxy"
+          ]
+        },
+         {
+          "id": 13,
+          "t_name": "NewTV潮妈辣婆",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo"
+          ]
+        },
+        {
+          "id": 13,
+          "t_name": "NewTV炫舞未来",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/HD-4000k-1080P-xwwl/HD-4000k-1080P-xwwl"
+          ]
+        },
+        {
+          "id": 14,
+          "t_name": "NewTV爱情喜剧",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj"
           ]
         }
       ]
