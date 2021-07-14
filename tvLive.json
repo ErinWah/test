@@ -33,7 +33,7 @@
         },
         {
           "id": 6.1,
-          "t_name": "CCTV-5体育",
+          "t_name": "CCTV5体育",
           "t_link": [
             "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5"
           ]
@@ -152,14 +152,14 @@
           "id": 5,
           "t_name": "南方TVS4",
           "t_link": [
-            "https://tcdn.itouchtv.cn/tvs2/sd/live.m3u8?t_token=38414975b515a42d320ff087b4374d97-ipTyMCcE%2Fri1HIkGzbdXDp8Tho4fONmLE04cByWvKrRZYpPB8eXyJb6XKo2Gd0i3jv6BsMsk804e8n84SNw%2FVvqbpIeQ0Ff2tO1J8GljEw0ftNY0QH0dPrnrwq9ILNl9ZdHJS1dJey83r19JJPd2AlikcAtSB1p3DicKkzo70gCDNerKVKgvRKcOGtpeaFZxUxjKtyDCUCrlSwYjH0jEfb8pb%2BpyiqDCTD0tTtmMZ%2Bc%3D"
+            "http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nanfangstv/SD-4000k-576P-nanfangstv"
           ]
         },
         {
           "id": 6,
           "t_name": "J2标清",
           "t_link": [
-            "https://gfdhyh.cn/hkj2a/j2.m3u8"
+            ""
           ]
         },
         {
@@ -225,9 +225,9 @@
         },
         {
           "id": 24,
-          "t_name": "嘉佳卡通卫视",
+          "t_name": "嘉佳卡通",
           "t_link": [
-            "http://stream1.grtn.cn/jjkt/sd/live.m3u8?_upt=978fe5dd1570725004"
+            "http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton"
           ]
         },
         {
@@ -235,6 +235,20 @@
           "t_name": "星空卫视",
           "t_link": [
             "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"
+          ]
+        },
+        {
+          "id": 26,
+          "t_name": "金鹰卡通",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/n-jinyingkaton/n-jinyingkaton"
+          ]
+        },
+        {
+          "id": 27,
+          "t_name": "卡酷少儿",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/n-kakukaton/n-kakukaton"
           ]
         }
       ]
