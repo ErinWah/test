@@ -157,16 +157,23 @@
         },
         {
           "id": 6,
-          "t_name": "J2标清",
+          "t_name": "黑莓电竞之夜",
           "t_link": [
-            ""
+            "http://183.207.248.71:80/cntv/live1/wmyx/wmyx"
           ]
         },
         {
           "id": 7,
-          "t_name": "无线新闻台",
+          "t_name": "黑莓电影",
           "t_link": [
-            "https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1613732517~exp=1613818917~acl=/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/*~hmac=a07f82cbf27fe1b58ec1cb382cd5d2cfad575bbe623af33ea1cf61f99632ff2b&p=3324"
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie"
+          ]
+        },
+         {
+          "id": 8,
+          "t_name": "黑莓动画",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg"
           ]
         }
       ]
@@ -231,13 +238,6 @@
           ]
         },
         {
-          "id": 25,
-          "t_name": "星空卫视",
-          "t_link": [
-            "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"
-          ]
-        },
-        {
           "id": 26,
           "t_name": "金鹰卡通",
           "t_link": [
@@ -249,6 +249,13 @@
           "t_name": "卡酷少儿",
           "t_link": [
             "http://183.207.248.71:80/cntv/live1/n-kakukaton/n-kakukaton"
+          ]
+        },
+        {
+          "id": 28,
+          "t_name": "优漫卡通",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton"
           ]
         }
       ]
