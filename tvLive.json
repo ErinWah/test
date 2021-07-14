@@ -124,7 +124,7 @@
           "id": 1,
           "t_name": "广东珠江",
           "t_link": [
-            "http://nclive.grtn.cn/zjpd/sd/live.m3u8?_upt="
+            "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1"
           ]
         },
         {
