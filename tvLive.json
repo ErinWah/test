@@ -332,6 +332,20 @@
           "t_link": [
             "http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj"
           ]
+        },
+        {
+          "id": 15,
+          "t_name": "NewTV金牌综艺",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx"
+          ]
+        },
+        {
+          "id": 16,
+          "t_name": "NewTV热播精选",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd"
+          ]
         }
       ]
     }
