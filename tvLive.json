@@ -32,10 +32,17 @@
           ]
         },
         {
-          "id": 6,
-          "t_name": "CCTV5+体育",
+          "id": 6.1,
+          "t_name": "CCTV-5体育",
           "t_link": [
-            "http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8"
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5"
+          ]
+        },
+        {
+          "id": 6.2,
+          "t_name": "CCTV5+体育赛事",
+          "t_link": [
+            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus"
           ]
         },
         {
